@@ -124,3 +124,10 @@
 ||fanqiestatic.com^
 ||tanchishe.me^
 #ROBLOtube
+#Game
+||doodlegame.org^
+||gameplayapi.intel.com^
+||agoragames.com^
+||gameplay.intel.com^
+||mgc-games.com^
+||game.watch.okii.com^
