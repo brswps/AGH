@@ -52,6 +52,7 @@
 ||pingma.qq.com^
 ||cloudctrl.gclud.qq.com^
 ||masdk.3g.qq.com^
+||game.weixin.qq.com^
 #原神
 ||yuanshen.com^
 ||mihoyo.com^
